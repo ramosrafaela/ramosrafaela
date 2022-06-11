@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafaela Ramos</h1>
 <h3 align="center">Enthusiastic about solving complex problems with statistical, algebraic and machine learning methods .</h3>
 
-- 🔭 I’m currently working on my master degree **Study of the measurement of multiply charmed baryon in Pb-Pb collisions with ALICE 3 at the LHC.**
+- 🔭 I’m currently working on my master's degree **Study of the measurement of multiply charmed baryon in Pb-Pb collisions with ALICE 3 at the LHC.**
 
 - 🌱 I’m currently learning **Machine Learning techniques**
 
