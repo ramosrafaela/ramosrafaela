@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafaela Ramos</h1>
 <h3 align="center">Enthusiastic about solving complex problems with statistical, algebraic and machine learning methods .</h3>
 
-- 🔭 I’m currently working on my master's degree **Study of the measurement of multiply charmed baryons in Pb-Pb collisions with ALICE 3 at the LHC.**
-
 - 🌱 I’m currently learning **Machine Learning techniques**
 
 - 💬 Ask me about **C, Python and Data Analysis**
 
 - 📫 How to reach me **rafaelaramos.datasci@gmail.com**
 
-- 📄 I have a bachelor's degree in Physics from the University of Campinas (UNICAMP) and I am currently pursuing a master's degree in Particle Physics at the same institution, focusing on data analysis from simulations performed for the future ALICE 3 particle detector experiment at the LHC. I also have programming skills in C/C++ and python, knowledge with Latex and experience with Monte Carlo simulations. In addition, I am also very interested in solving mathematical problems involving linear algebra and statistics. [https://www.linkedin.com/in/ramosrafaela](https://www.linkedin.com/in/ramosrafaela)
+- 📄 I have a bachelor's and master's degree in Physics from the University of Campinas (UNICAMP) and in my master's degree I focused on data analysis from simulations performed for the future ALICE 3 particle detector experiment at the LHC. I also have programming skills in C/C++ and python, knowledge with Latex and experience with Monte Carlo simulations. In addition, I am also very interested in solving mathematical problems involving linear algebra and statistics. [https://www.linkedin.com/in/ramosrafaela](https://www.linkedin.com/in/ramosrafaela)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
