@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rafaelaramos.datasci@gmail.com**
 
-- 📄 I have a bachelor's and master's degree in Physics from the University of Campinas (UNICAMP) and in my master's degree I focused on data analysis from simulations performed for the future ALICE 3 particle detector experiment at the LHC. I also have programming skills in C/C++ and python, knowledge with Latex and experience with Monte Carlo simulations. In addition, I am also very interested in solving mathematical problems involving linear algebra and statistics. [https://www.linkedin.com/in/ramosrafaela](https://www.linkedin.com/in/ramosrafaela)
+- 📄 I have a bachelor's and master's degree in Physics from the University of Campinas (UNICAMP) and in my master's degree, I focused on data analysis from simulations performed for the future ALICE 3 particle detector experiment at the LHC. I also have programming skills in C/C++ and python, knowledge of Latex, and experience with Monte Carlo simulations. In addition, I am also very interested in solving mathematical problems involving linear algebra and statistics. [https://www.linkedin.com/in/ramosrafaela](https://www.linkedin.com/in/ramosrafaela)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
