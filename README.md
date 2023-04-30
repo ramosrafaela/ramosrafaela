@@ -10,8 +10,6 @@
 
 - 📄 I have a bachelor's and master's degree in physics from the University of Campinas (UNICAMP). In my master's degree, I focused on data analysis from simulations performed for the future ALICE 3 particle detector experiment at the LHC. I also have programming skills in C/C++ and python, knowledge of Latex, and experience with Monte Carlo simulations. In addition, I am also very interested in solving mathematical problems involving linear algebra and statistics.
 
-- Looking for an opportunity to work in a challenging position combining my skills in Data Science, which provides professional development, interesting experiences, and personal growth. [https://www.linkedin.com/in/ramosrafaela](https://www.linkedin.com/in/ramosrafaela)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafaela-ramos-sarmento-161266165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramosrafaela" height="30" width="40" /></a>
